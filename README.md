@@ -21,7 +21,7 @@ A modern React-based BMI (Body Mass Index) and health tracking app with goal set
 ## 📦 Installation
 
 ```bash
-# 1. Clone the repo
+# 1. Clone the repo 
 git clone https://github.com/BALADURGAG24/bmi-health-tracker-react.git
 cd bmi-health-tracker-react 
 
