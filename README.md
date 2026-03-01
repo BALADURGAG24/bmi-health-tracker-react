@@ -10,7 +10,7 @@ A modern React-based BMI (Body Mass Index) and health tracking app with goal set
 - ✅ **Health Classification** (Underweight, Normal, Overweight, Obese)          
 - ✅ **Age & Gender Input**            
 - ✅ **Goal Tracking**  (target weight or BMI)            
-- ✅ **BMI History Logging** (stored in localStorage)  
+- ✅ **BMI History Logging** (stored in localStorage)   
 - ✅ **Live-Updating Chart** using [`recharts`](https://recharts.org/)
 - ✅ **Dark Mode Toggle** 🌙 
 - ✅ **Responsive UI** built with [Tailwind CSS](https://tailwindcss.com/) 
