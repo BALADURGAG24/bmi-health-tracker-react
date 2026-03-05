@@ -7,7 +7,7 @@ A modern React-based BMI (Body Mass Index) and health tracking app with goal set
 ## 🚀 Features    
      
 - ✅ **BMI Calculator** (based on height and weight)     
-- ✅ **Health Classification** (Underweight, Normal, Overweight, Obese)             
+- ✅ **Health Classification** (Underweight, Normal, Overweight, Obese)              
 - ✅ **Age & Gender Input**                 
 - ✅ **Goal Tracking**  (target weight or BMI)                
 - ✅ **BMI History Logging** (stored in localStorage)   
