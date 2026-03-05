@@ -39,21 +39,29 @@ Visit: [http://localhost:3000](http://localhost:3000)
 ## 📁 Folder Structure
 
 ```
-bmi-tracker-app/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── BMICalculator.jsx
-│   │   ├── BMIResult.jsx
-│   │   ├── History.jsx
-│   │   └── DarkModeToggle.jsx
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-├── index.html
-├── tailwind.config.js
-├── postcss.config.js
-├── package.json
+Directory structure:
+└── baladurgag24-bmi-health-tracker-react/
+    ├── README.md
+    ├── LICENSE
+    ├── package.json
+    ├── postcss.config.js
+    ├── tailwind.config.js
+    ├── public/
+    │   ├── index.html
+    │   ├── manifest.json
+    │   └── robots.txt
+    └── src/
+        ├── App.css
+        ├── App.js
+        ├── App.test.js
+        ├── index.css
+        ├── index.js
+        ├── reportWebVitals.js
+        ├── setupTests.js
+        └── components/
+            ├── BMICalculator.jsx
+            ├── BMIResult.jsx
+            └── History.jsx
 ```
 
 ---
